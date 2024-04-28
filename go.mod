@@ -1,3 +1,3 @@
-module git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window
+module github.com/blueleafdi2/moving-window
 
 go 1.16

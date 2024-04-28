@@ -1,8 +1,8 @@
 package main
 
 import (
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/server"
-	_ "git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/server/impl"
+	"github.com/blueleafdi2/moving-window/src/server"
+	_ "github.com/blueleafdi2/moving-window/src/server/impl"
 	"log"
 	"net/http"
 )

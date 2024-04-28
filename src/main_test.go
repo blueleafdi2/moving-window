@@ -3,9 +3,9 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/api"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/common"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/util"
+	"github.com/blueleafdi2/moving-window/src/api"
+	"github.com/blueleafdi2/moving-window/src/common"
+	"github.com/blueleafdi2/moving-window/src/util"
 	"io/ioutil"
 	"net/http"
 	"sync"

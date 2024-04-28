@@ -2,10 +2,10 @@ package impl
 
 import (
 	"encoding/json"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/api"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/common"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/server"
-	"git.garena.com/shopee/insurance/insurance-backend/insurance-hub/moving-window/src/util"
+	"github.com/blueleafdi2/moving-window/src/api"
+	"github.com/blueleafdi2/moving-window/src/common"
+	"github.com/blueleafdi2/moving-window/src/server"
+	"github.com/blueleafdi2/moving-window/src/util"
 	"io/ioutil"
 	"log"
 	"net/http"
